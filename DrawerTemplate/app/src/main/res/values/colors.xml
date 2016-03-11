@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="blue">#009AC7</color>
+    <color name="black">#000000</color>
+    <color name="orange">#F58326</color>
+    <color name="footer_grey">#9B9B9B</color>
+    <color name="statusBar_color">#0080a5</color>
+
+</resources>
